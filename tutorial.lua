@@ -46,8 +46,8 @@ print(text)
 
 -- Tables :
 table = {
-    value_one : "Value1",
-    ["value_two"] : "Value2"
+    value_one = "Value1",
+    ["value_two"] = "Value2"
 }
 -- Examples :
 print(table.value_one)
