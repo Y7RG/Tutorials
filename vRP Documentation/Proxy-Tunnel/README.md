@@ -7,5 +7,5 @@ Tunnel is used to share functions between server and client scripts, proxy allow
 #### How to use Proxy & Tunnel
 As we said: Proxy has its uses and Tunnel has its uses.
 * There are two sides :-
-  * [Server Side]()
-  * [Client Side]()
+  * [Server Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Server-Side)
+  * [Client Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Client-Side)
