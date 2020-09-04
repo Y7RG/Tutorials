@@ -17,6 +17,7 @@ local Proxy = module("vrp", "lib/Proxy")
 vRP = Proxy.getInterface("vRP")
 vRPclient = Tunnel.getInterface("vRP",GetCurrentResourceName())
 ```
+
 #### Notes
 **utils.lua** is a file includes some functions that we will use .
 **module** is a function inside utils.lua that allows you to load lua files in your code .
