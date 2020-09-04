@@ -50,7 +50,6 @@ vRP = Proxy.getInterface("vRP")
 
 **GetCurrentResourceName()** من أوامر الفايف الذي يعطي قيمة وهي اسم السكربت الذي يكتب داخله 
 
-**Tunnel.getInterface("vRP",GetCurrentResourceName())** import **vRPserver** library library useing getInterface function form Tunnel .
 **Tunnel.getInterface("vRP",GetCurrentResourceName())** استدعاء مكتبة **الفي ار بي سيرفر** باستخدام امر جيت انتر فيس من التنل
 
 **Proxy.getInterface("vRP")** استدعاء مكتبة **الفي ار بي** بواسطة امر جت انتر فيس من البروكسي
