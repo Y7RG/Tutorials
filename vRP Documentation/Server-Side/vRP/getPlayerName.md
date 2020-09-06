@@ -2,7 +2,7 @@
 **Function Info :**
 * **Type :** Receive Data **.**  
 * **Receiving Method :** return **.**
-* **Description :** This function gives the user's name (gamer tag) by they source  **.**
+* **Description :** This function gives the user's name by they source  **.**
 
 ## How to write the function
 ```lua
