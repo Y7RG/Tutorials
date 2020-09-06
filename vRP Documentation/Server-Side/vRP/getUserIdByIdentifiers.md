@@ -4,14 +4,14 @@
 * **Receiving Method :** callback **.**
 * **Description :** This function gives the user's id by they Identifiers  **.**
 
-## Raw Function
+## How to write the function
 ```lua
 vRP.getUserIdByIdentifiers({"license:**********", "steam:**********", "discord:********"}, function(user_id)
 
 end)
 ```
 
-## How to use 
+## Example to use 
 ```lua
 RegisterCommand("id", function(source)
     local Identifiers = GetPlayerIdentifiers(source)
