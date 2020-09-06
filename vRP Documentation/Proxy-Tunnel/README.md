@@ -9,7 +9,7 @@ As we said: Proxy has its uses and Tunnel has its uses.
 * There are two sides :-
   * [Server Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Server-Side)
   * [Client Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Client-Side)
-
+##### Writed by : XMahammadX
 # استخدام أوامر الفي ار بي
 لإستخدام **أوامر الفي ار بي** خارج نطاق **سكربت الفي ار بي** يجب عليك استخدام **البروكسي و التنل** 
 ## البروكسي
@@ -21,3 +21,4 @@ As we said: Proxy has its uses and Tunnel has its uses.
 * لذا يوجد جانبان :-
   * [جانب السيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Server-Side)
   * [جانب الكلاينت](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Client-Side)
+##### صاحب الدليل : XMahammadX
