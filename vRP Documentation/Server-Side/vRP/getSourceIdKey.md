@@ -11,7 +11,7 @@ local source_id_key = vRP.getSourceIdKey(source)
 
 ## Example Script
 ```lua
-RegisterCommand("id", function(source)
+RegisterCommand("idkey", function(source)
     local source_id_key = vRP.getSourceIdKey(source)
     print("The source id key is : ["..source_id_key.."]")
 end)
@@ -32,7 +32,7 @@ local source_id_key = vRP.getSourceIdKey(source)
 
 ## سكربت توضيحي
 ```lua
-RegisterCommand("id", function(source)
+RegisterCommand("idkey", function(source)
     local source_id_key = vRP.getSourceIdKey(source)
     print("The source id key is : ["..source_id_key.."]")
 end)
