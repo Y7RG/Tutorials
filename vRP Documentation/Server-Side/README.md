@@ -29,7 +29,7 @@ vRPclient.function(source,{parameter})
 vRP.function({parameter})
 vRPclient.function(source,{parameter})
 ```
-### Functions :
+### الأوامر :
 * [أوامر الفي ار بي](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side/vRP)
 * [أوامر الفي ار بي كلاينت](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side/vRPclient)
 ##### صاحب الدليل : XMahammadX
