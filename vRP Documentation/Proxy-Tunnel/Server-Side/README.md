@@ -72,6 +72,6 @@ vRPclient = Tunnel.getInterface("vRP",GetCurrentResourceName())
 
 **Tunnel.getInterface("vRP",GetCurrentResourceName())** استدعاء مكتبة الفي ار بي كلاينت باستخدام امر جيت انتر فيس من التنل
 
-[vRP API Server Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side)
+[أوامر الفي ار بي لجانب السيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side)
 
 ##### صاحب الدليل : XMahammadX
