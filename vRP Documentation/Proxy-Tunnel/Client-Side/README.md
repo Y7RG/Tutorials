@@ -60,4 +60,4 @@ vRP = Proxy.getInterface("vRP")
 
 [أوامر الفي اري بي لجانب كلاينت](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side)
 
-##### صاحب الدليل : XMahammadX
+##### صاحب المرجع : XMahammadX
