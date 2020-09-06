@@ -34,4 +34,4 @@ vRPserver.function({parameter})
 * [الفي ار بي](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRP)
 * [الفي ار بي سيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRPserver)
 
-##### صاحب الدليل : XMahammadX
+##### صاحب المرجع : XMahammadX
