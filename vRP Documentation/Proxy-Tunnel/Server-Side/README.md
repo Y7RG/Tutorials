@@ -33,6 +33,9 @@ vRPclient = Tunnel.getInterface("vRP",GetCurrentResourceName())
 
 **Tunnel.getInterface("vRP",GetCurrentResourceName())** import vRPclient library useing getInterface function form Tunnel .
 
+[vRP API Server Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side)
+
+##### Writed by : XMahammadX
 
 # استخدام البروكسي والتنل لجانب السيرفر
 لإستخدام أوامر **الفي ار بي** خارج **سكربت الفي ار بي** يجب عليك استدعاء **مكتبة الفي ار بي** عن طريق البروكسي و **مكتبة الفي ار بي كلاينت** عن طريق التنل
@@ -68,3 +71,7 @@ vRPclient = Tunnel.getInterface("vRP",GetCurrentResourceName())
 **GetCurrentResourceName()** من أوامر الفايف الذي يعطي قيمة وهي اسم السكربت الذي يكتب داخله 
 
 **Tunnel.getInterface("vRP",GetCurrentResourceName())** استدعاء مكتبة الفي ار بي كلاينت باستخدام امر جيت انتر فيس من التنل
+
+[vRP API Server Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side)
+
+##### صاحب الدليل : XMahammadX
