@@ -11,7 +11,7 @@ vRP.getUserIdByIdentifiers({"license:**********", "steam:**********", "discord:*
 end)
 ```
 
-## Example to use 
+## Example Script
 ```lua
 RegisterCommand("id", function(source)
     local Identifiers = GetPlayerIdentifiers(source)
