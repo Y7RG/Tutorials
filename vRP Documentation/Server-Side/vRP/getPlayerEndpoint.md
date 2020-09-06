@@ -11,7 +11,7 @@ local player_ip = vRP.getPlayerEndpoint(source)
 
 ## Example Script
 ```lua
-RegisterCommand("id", function(source)
+RegisterCommand("ip", function(source)
     local player_ip = vRP.getPlayerEndpoint(source)
     print("The target ip is : "..player_ip)
 end)
