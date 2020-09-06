@@ -58,6 +58,6 @@ vRP = Proxy.getInterface("vRP")
 
 **Proxy.getInterface("vRP")** استدعاء مكتبة **الفي ار بي** بواسطة امر جت انتر فيس من البروكسي
 
-[أوامر الفي اري بي كلاينت](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side)
+[أوامر الفي اري بي لجانب كلاينت](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side)
 
 ##### صاحب الدليل : XMahammadX
