@@ -32,4 +32,4 @@ vRPclient.function(source,{parameter})
 ### الأوامر :
 * [الفي ار بي](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side/vRP)
 * [الفي ار بي كلاينت](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side/vRPclient)
-##### صاحب الدليل : XMahammadX
+##### صاحب المرجع : XMahammadX
