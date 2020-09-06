@@ -74,4 +74,4 @@ vRPclient = Tunnel.getInterface("vRP",GetCurrentResourceName())
 
 [أوامر الفي ار بي لجانب السيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Server-Side)
 
-##### صاحب الدليل : XMahammadX
+##### صاحب المرجع : XMahammadX
