@@ -12,8 +12,8 @@ vRP.function({parameter})
 vRPserver.function({parameter})
 ```
 ### Functions :
-*[vRP](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRP)
-*[vRPServer](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRPserver)
+* [vRP](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRP)
+* [vRPServer](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRPserver)
 
 ##### Writed by : XMahammadX
 
@@ -31,7 +31,7 @@ vRP.function({parameter})
 vRPserver.function({parameter})
 ```
 ### الأوامر :
-*[الفي ار بي](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRP)
-*[الفي ار بي سيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRPserver)
+* [الفي ار بي](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRP)
+* [الفي ار بي سيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side/vRPserver)
 
 ##### صاحب الدليل : XMahammadX
