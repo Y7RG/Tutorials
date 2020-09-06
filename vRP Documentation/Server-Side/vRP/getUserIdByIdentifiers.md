@@ -4,4 +4,21 @@
 * **Receiving Method :** callback **.**
 * **Description :** This function gives the user's id by they Identifiers  **.**
 
+## Raw Function
+```lua
+vRP.getUserIdByIdentifiers({"license:**********", "steam:**********", "discord:********"}, function(user_id)
+
+end)
+```
+
+## How to use 
+```lua
+RegisterCommand("id", function(source)
+    local Identifiers = GetPlayerIdentifiers(source)
+    vRP.getUserIdByIdentifiers(Identifiers, function(user_id)
+        print("The id is : "..user_id)
+    end)
+end)
+```
+
 ##### Writed by : XMahammadX
