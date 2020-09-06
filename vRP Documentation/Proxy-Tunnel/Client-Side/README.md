@@ -26,6 +26,10 @@ vRP = Proxy.getInterface("vRP")
 
 **Proxy.getInterface("vRP")** import **vRP** library useing getInterface function form Proxy .
 
+[vRP API Client Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side)
+
+##### Writed by : XMahammadX
+
 # استخدام البروكسي والتنل لجانب الكلاينت
 لاستخدام أوامر **الفي ار بي** خارج **سكربت الفي ار بي** يجب عليك استدعاء **مكتبة الفي ار بي** عن طريق البروكسي و**مكتبة الفي ار بي سيرفر** عن طريق التنل
 ## كيفية استخدام البروكسي والتنل لاستدعاء المكتبات
@@ -53,3 +57,7 @@ vRP = Proxy.getInterface("vRP")
 **Tunnel.getInterface("vRP",GetCurrentResourceName())** استدعاء مكتبة **الفي ار بي سيرفر** باستخدام امر جيت انتر فيس من التنل
 
 **Proxy.getInterface("vRP")** استدعاء مكتبة **الفي ار بي** بواسطة امر جت انتر فيس من البروكسي
+
+[أوامر الفي اري بي كلاينت](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Client-Side)
+
+##### صاحب الدليل : XMahammadX
