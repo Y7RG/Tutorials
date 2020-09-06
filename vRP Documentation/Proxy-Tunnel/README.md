@@ -21,4 +21,4 @@ As we said: Proxy has its uses and Tunnel has its uses.
 * لذا يوجد جانبان :-
   * [جانب السيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Server-Side#%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%84-%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D9%81%D8%B1)
   * [جانب الكلاينت](https://github.com/XMahammadX/Tutorials/blob/master/vRP%20Documentation/Proxy-Tunnel/Client-Side/README.md#%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%84-%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D9%8A%D9%86%D8%AA)
-##### صاحب الدليل : XMahammadX
+##### صاحب المرجع : XMahammadX
