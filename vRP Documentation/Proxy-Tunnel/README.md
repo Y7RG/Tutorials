@@ -7,8 +7,8 @@ Tunnel is used to share functions between server and client scripts, Tunnel allo
 #### How to use Proxy & Tunnel
 As we said: Proxy has its uses and Tunnel has its uses.
 * There are two sides :-
-  * [Server Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Server-Side)
-  * [Client Side](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Client-Side)
+  * [Server Side](https://github.com/XMahammadX/Tutorials/blob/master/vRP%20Documentation/Proxy-Tunnel/Server-Side/README.md#use-proxy--tunnel-for-server-side)
+  * [Client Side](https://github.com/XMahammadX/Tutorials/blob/master/vRP%20Documentation/Proxy-Tunnel/Client-Side/README.md#use-proxy--tunnel-for-client-side)
 ##### Writed by : XMahammadX
 # استخدام أوامر الفي ار بي
 لإستخدام **أوامر الفي ار بي** خارج نطاق **سكربت الفي ار بي** يجب عليك استخدام **البروكسي و التنل** 
@@ -19,6 +19,6 @@ As we said: Proxy has its uses and Tunnel has its uses.
 #### كيفية اتسخدام البروكسي والتنل
 سبق وقلنا : أن للبروكسي استخداماتها وللتنل استخدماتها بشكل منفصل
 * لذا يوجد جانبان :-
-  * [جانب السيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Server-Side)
-  * [جانب الكلاينت](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Client-Side)
+  * [جانب السيرفر](https://github.com/XMahammadX/Tutorials/tree/master/vRP%20Documentation/Proxy-Tunnel/Server-Side#%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%84-%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D9%81%D8%B1)
+  * [جانب الكلاينت](https://github.com/XMahammadX/Tutorials/blob/master/vRP%20Documentation/Proxy-Tunnel/Client-Side/README.md#%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%84-%D9%84%D8%AC%D8%A7%D9%86%D8%A8-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D9%8A%D9%86%D8%AA)
 ##### صاحب الدليل : XMahammadX
