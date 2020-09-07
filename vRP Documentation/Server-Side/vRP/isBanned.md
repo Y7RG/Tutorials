@@ -60,9 +60,12 @@ RegisterCommand("checkban", function(source, args)
             print("The user is not banned")
         end
     end)
+    
     -- طريقة استخدام الأمر كالأتي :
     -- /checkban 1
-    -- النتائج : <قيمة منطقية<
+    
+    -- النتائج :
+    -- <قيمة منطقية>
 end)
 ```
 
