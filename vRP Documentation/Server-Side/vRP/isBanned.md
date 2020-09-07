@@ -26,8 +26,8 @@ RegisterCommand("checkban", function(source, args)
             print("The user is not banned")
         end
     end)
-    -- /checkban 1 -> result : The user is not banned
 end)
+-- /checkban 1 -> result : The user is not banned
 ```
 
 ##### Writed by : XMahammadX
@@ -60,13 +60,12 @@ RegisterCommand("checkban", function(source, args)
             print("The user is not banned")
         end
     end)
-    
-    -- طريقة استخدام الأمر كالأتي :
-    -- /checkban 1
-    
-    -- النتائج :
-    -- The user is not banned
 end)
+-- طريقة استخدام الأمر كالأتي :
+-- /checkban 1
+    
+-- النتائج :
+-- The user is not banned
 ```
 
 ##### صاحب المرجع : XMahammadX
