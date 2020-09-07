@@ -26,7 +26,7 @@ RegisterCommand("checkban", function(source, args)
             print("The user is not banned")
         end
     end)
-    -- /checkban 1 -> result : <bool>
+    -- /checkban 1 -> result : The user is not banned
 end)
 ```
 
@@ -65,7 +65,7 @@ RegisterCommand("checkban", function(source, args)
     -- /checkban 1
     
     -- النتائج :
-    -- <قيمة منطقية>
+    -- The user is not banned
 end)
 ```
 
