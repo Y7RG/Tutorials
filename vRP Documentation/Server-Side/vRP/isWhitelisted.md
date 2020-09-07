@@ -2,7 +2,7 @@
 **Function Info :**
 * **Type :** Receive Data **.**  
 * **Receiving Method :** call back **.**
-* **Description :** This function gives a boolen value (true or false) which is the case of whitelisting the player  **.**
+* **Description :** This function gives a boolen value (true or false) which is the case of whitelisting the user  **.**
 
 ## How to write the function
 ```lua
